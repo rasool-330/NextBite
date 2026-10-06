@@ -333,7 +333,9 @@ https://github.com/rasool-330
 
 **Project Repository:**  
 https://github.com/rasool-330/NextBite
+## 🚀 Live Demo
 
+👉 [Try NextBite Live](https://nextbite-330.streamlit.app/)
 ---
 
 ## ⭐ Support
